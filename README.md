@@ -7,10 +7,11 @@ This repository contains Javascript solutions for [Data Structures and Algorithm
 
 ### Programming Challenges
 
--[Sum of Two Digits](/1-algorithmic-toolbox/week1_programming_challenges/1_sum_of_two_digits/APlusB.js)
--[Maximum Pairwise Product](/1-algorithmic-toolbox/week1_programming_challenges/2_maximum_pairwise_product/max_pairwise_product.js)
+- [Sum of Two Digits](/1-algorithmic-toolbox/week1_programming_challenges/1_sum_of_two_digits/APlusB.js)
+- [Maximum Pairwise Product](/1-algorithmic-toolbox/week1_programming_challenges/2_maximum_pairwise_product/max_pairwise_product.js)
 
 ### Algorithmic Warm-up
+
 - [Fibonacci Number](/1-algorithmic-toolbox/week2_algorithmic_warmup/1_fibonacci_number/fibonacci.js)
 - [Last Digit of a Large Fibonacci Number](/1-algorithmic-toolbox/week2_algorithmic_warmup/2_last_digit_of_fibonacci_number/fibonacci_last_digit.js)
 - [Greatest Common Divisor](/1-algorithmic-toolbox/week2_algorithmic_warmup/3_greatest_common_divisor/gcd.js)
@@ -52,3 +53,37 @@ This repository contains Javascript solutions for [Data Structures and Algorithm
 - [Maximum Amount of Gold](/1-algorithmic-toolbox/week6_dynamic_programming2/1_maximum_amount_of_gold/knapsack.js)
 - [Partitioning Souvenirs](/1-algorithmic-toolbox/week6_dynamic_programming2/2_partitioning_souvenirs/partition3.js)
 - [Maximum Value of an Arithmetic Expression](/1-algorithmic-toolbox/week6_dynamic_programming2/3_maximum_value_of_an_arithmetic_expression/placing_parentheses.js)
+
+
+## [Data Structures](/2-data-structures/)
+
+### Basic Data Structures
+
+- [Check brackets in the code](/2-data-structures/week1_basic_data_structures/1_brackets_in_code/check_brackets.js)
+- [Tree height](/2-data-structures/week1_basic_data_structures/2_tree_height/tree_height.js)
+- [Network packet processing simulation](/2-data-structures/week1_basic_data_structures/3_network_simulation/process_packages.js)
+- [Stack with maximum](/2-data-structures/week1_basic_data_structures/4_stack_with_max/stack_with_max.js)
+- [Maximum in Sliding Window](/2-data-structures/week1_basic_data_structures/5_max_sliding_window/max_sliding_window.js)
+
+### Priority Queues and Disjoint Sets
+
+- [Make Heap](/2-data-structures/week2_priority_queues_and_disjoint_sets/1_make_heap/build_heap.js)
+- [Parallel Processing](/2-data-structures/week2_priority_queues_and_disjoint_sets/2_job_queue/job_queue.js)
+- [Merging Tables](/2-data-structures/week2_priority_queues_and_disjoint_sets/3_merging_tables/merging_tables.js)
+
+### Hash Tables
+
+- [Phone Book](/2-data-structures/week3_hash_tables/1_phone_book/phone_book.js)
+- [Chaining Simulation](/2-data-structures/week3_hash_tables/2_hash_chains/hash_chains.js)
+- [Find Substring](/2-data-structures/week3_hash_tables/3_hash_substring/hash_substring.js)
+- [Substring Comparison](/2-data-structures/week3_hash_tables/4_substring_equality/substring_equality.js)
+- [Longest Common Substring](/2-data-structures/week3_hash_tables/5_longest_common_substring/common_substring.js)
+- [Pattern Matching with Mismatches](/2-data-structures/week3_hash_tables/6_matching_with_mismatches/matching_with_mismatches.js)
+
+### Binary Search Trees
+
+- [Tree Orders](/2-data-structures/week4_binary_search_trees/1_tree_traversals/tree-orders.js)
+- [Is it a Binary Search Tree?](/2-data-structures/week4_binary_search_trees/2_is_bst/is_bst.js)
+- [Is it a Binary Search Tree? Hard version.](/2-data-structures/week4_binary_search_trees/3_is_bst_advanced/is_bst_hard.js)
+- [Set range sum](/2-data-structures/week4_binary_search_trees/4_set_range_sum/set_range_sum.js)
+- [Rope string](/2-data-structures/week4_binary_search_trees/5_rope/rope.js)
