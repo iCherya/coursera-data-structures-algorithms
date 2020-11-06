@@ -87,3 +87,33 @@ This repository contains Javascript solutions for [Data Structures and Algorithm
 - [Is it a Binary Search Tree? Hard version.](/2-data-structures/week4_binary_search_trees/3_is_bst_advanced/is_bst_hard.js)
 - [Set range sum](/2-data-structures/week4_binary_search_trees/4_set_range_sum/set_range_sum.js)
 - [Rope string](/2-data-structures/week4_binary_search_trees/5_rope/rope.js)
+
+
+## [Algorithms on Graphs](3-algorithms-on-graphs)
+
+### Decomposition of Graphs 1
+
+- [Reachability](/3-algorithms-on-graphs/week1_graph_decomposition1/1_finding_exit_from_maze/reachability.js)
+- [Connected Components](/3-algorithms-on-graphs/week1_graph_decomposition1/2_adding_exits_to_maze/connected_components.js)
+
+### Decomposition of Graphs 2
+
+- [Acyclicity](/3-algorithms-on-graphs/week2_graph_decomposition2/1_cs_curriculum/acyclicity.js)
+- [Topological Sort](/3-algorithms-on-graphs/week2_graph_decomposition2/2_order_of_courses/toposort.js)
+- [Strongly connected components](/3-algorithms-on-graphs/week2_graph_decomposition2/3_intersection_reachability/strongly_connected.js)
+
+### Paths in Graphs 1
+
+- [Breadth first search (minimum number of flight segments)](/3-algorithms-on-graphs/week3_paths_in_graphs1/1_flight_segments/bfs.js)
+- [Bipartite](/3-algorithms-on-graphs/week3_paths_in_graphs1/2_bipartite/bipartite.js)
+
+### Paths in Graphs 2
+
+- [Dijkstra](/3-algorithms-on-graphs/week4_paths_in_graphs2/1_minimum_flight_cost/dijkstra.js)
+- [Negative Cycle](/3-algorithms-on-graphs/week4_paths_in_graphs2/2_detecting_anomalies/negative_cycle.js)
+- [Shortest Paths](/3-algorithms-on-graphs/week4_paths_in_graphs2/3_exchanging_money/shortest_paths.js)
+
+### Minimum Spanning Trees
+
+- [Building Roads to Connect Cities](/3-algorithms-on-graphs/week5_spanning_trees/1_connecting_points/connecting_points.js)
+- [Clustering](/3-algorithms-on-graphs/week5_spanning_trees/2_clustering/clustering.js)
