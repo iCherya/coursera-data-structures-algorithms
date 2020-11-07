@@ -115,5 +115,12 @@ This repository contains Javascript solutions for [Data Structures and Algorithm
 
 ### Minimum Spanning Trees
 
-- [Building Roads to Connect Cities](/3-algorithms-on-graphs/week5_spanning_trees/1_connecting_points/connecting_points.js)
+- [Connecting Points](/3-algorithms-on-graphs/week5_spanning_trees/1_connecting_points/connecting_points.js)
 - [Clustering](/3-algorithms-on-graphs/week5_spanning_trees/2_clustering/clustering.js)
+
+
+## [Algorithms on String](/4-algorithms-on-strings/)
+
+### Suffix Trees
+
+- [Construct a Trie from a Collection of Patterns](/4-algorithms-on-strings/week1_suffix_trees/1_trie/trie.js)
