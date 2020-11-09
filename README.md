@@ -124,3 +124,4 @@ This repository contains Javascript solutions for [Data Structures and Algorithm
 ### Suffix Trees
 
 - [Construct a Trie from a Collection of Patterns](/4-algorithms-on-strings/week1_suffix_trees/1_trie/trie.js)
+- [Implement TrieMatching](/4-algorithms-on-strings/week1_suffix_trees/2_trie_matching/trie_matching.js)
