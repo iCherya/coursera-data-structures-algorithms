@@ -127,3 +127,4 @@ This repository contains Javascript solutions for [Data Structures and Algorithm
 - [Implement TrieMatching](/4-algorithms-on-strings/week1_suffix_trees/2_trie_matching/trie_matching.js)
 - [Extend TrieMatching](/4-algorithms-on-strings/week1_suffix_trees/3_trie_matching_extended/trie_matching_extended.js)
 - [Suffix Tree](/4-algorithms-on-strings/week1_suffix_trees/4_suffix_tree/suffix_tree.js)
+- [Shortest Non-Shared Substring](/4-algorithms-on-strings/week1_suffix_trees/5_non_shared_substring/non_shared_substring.js)
