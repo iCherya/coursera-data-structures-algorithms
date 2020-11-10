@@ -133,3 +133,5 @@ This repository contains Javascript solutions for [Data Structures and Algorithm
 
 - [Burrows-Wheeler Transform](/4-algorithms-on-strings/week2_bwt_transform_and_suffix_arrays/1_bwt/bwt.js)
 - [Reconstruct String from its Burrows-Wheeler Transform](/4-algorithms-on-strings/week2_bwt_transform_and_suffix_arrays/2_bwtinverse/bwtinverse.js)
+- [Implement Better BW Matching](/4-algorithms-on-strings/week2_bwt_transform_and_suffix_arrays/3_bwmatching/bwmatching.js)
+- [Construct Suffix Array of a String](/4-algorithms-on-strings/week2_bwt_transform_and_suffix_arrays/4_suffix_array/suffix_array.js)
