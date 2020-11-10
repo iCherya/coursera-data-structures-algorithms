@@ -132,3 +132,4 @@ This repository contains Javascript solutions for [Data Structures and Algorithm
 ### Burrows–Wheeler Transform and Suffix Arrays
 
 - [Burrows-Wheeler Transform](/4-algorithms-on-strings/week2_bwt_transform_and_suffix_arrays/1_bwt/bwt.js)
+- [Reconstruct String from its Burrows-Wheeler Transform](/4-algorithms-on-strings/week2_bwt_transform_and_suffix_arrays/2_bwtinverse/bwtinverse.js)
