@@ -128,3 +128,7 @@ This repository contains Javascript solutions for [Data Structures and Algorithm
 - [Extend TrieMatching](/4-algorithms-on-strings/week1_suffix_trees/3_trie_matching_extended/trie_matching_extended.js)
 - [Suffix Tree](/4-algorithms-on-strings/week1_suffix_trees/4_suffix_tree/suffix_tree.js)
 - [Shortest Non-Shared Substring](/4-algorithms-on-strings/week1_suffix_trees/5_non_shared_substring/non_shared_substring.js)
+
+### Burrows–Wheeler Transform and Suffix Arrays
+
+- [Burrows-Wheeler Transform](/4-algorithms-on-strings/week2_bwt_transform_and_suffix_arrays/1_bwt/bwt.js)
