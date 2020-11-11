@@ -139,3 +139,4 @@ This repository contains Javascript solutions for [Data Structures and Algorithm
 ### Algorithmic Challenges
 
 - [Find all Occurrences of a Pattern in a String](/4-algorithms-on-strings/week3_4_algorithmic_challenges/1_kmp/kmp.js)
+- [Construct Suffix Array of a Long String](/4-algorithms-on-strings/week3_4_algorithmic_challenges/2_suffix_array_long/suffix_array_long.js)
