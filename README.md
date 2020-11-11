@@ -135,3 +135,7 @@ This repository contains Javascript solutions for [Data Structures and Algorithm
 - [Reconstruct String from its Burrows-Wheeler Transform](/4-algorithms-on-strings/week2_bwt_transform_and_suffix_arrays/2_bwtinverse/bwtinverse.js)
 - [Implement BetterBWMatching](/4-algorithms-on-strings/week2_bwt_transform_and_suffix_arrays/3_bwmatching/bwmatching.js)
 - [Construct Suffix Array of a String](/4-algorithms-on-strings/week2_bwt_transform_and_suffix_arrays/4_suffix_array/suffix_array.js)
+
+### Algorithmic Challenges
+
+- [Find all Occurrences of a Pattern in a String](/4-algorithms-on-strings/week3_4_algorithmic_challenges/1_kmp/kmp.js)
