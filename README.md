@@ -142,3 +142,10 @@ This repository contains Javascript solutions for [Data Structures and Algorithm
 - [Construct Suffix Array of a Long String](/4-algorithms-on-strings/week3_4_algorithmic_challenges/2_suffix_array_long/suffix_array_long.js)
 - [Pattern Matching with the Suffix Array](/4-algorithms-on-strings/week3_4_algorithmic_challenges/3_suffix_array_matching/suffix_array_matching.js)
 - [Construct a Suffix Tree from a Suffix Array](/4-algorithms-on-strings/week3_4_algorithmic_challenges/4_suffix_tree_from_array/suffix_tree_from_array.js)
+
+
+## [Advanced Algorithms and Complexity](/5-advanced-algorithms-and-complexity/)
+
+### Flows in Networks
+
+- [Evacuating People](/5-advanced-algorithms-and-complexity/week1_flows_in_networks/1_evacuation/evacuation.js)
