@@ -149,3 +149,4 @@ This repository contains Javascript solutions for [Data Structures and Algorithm
 ### Flows in Networks
 
 - [Evacuating People](/5-advanced-algorithms-and-complexity/week1_flows_in_networks/1_evacuation/evacuation.js)
+- [Airline Crews](/5-advanced-algorithms-and-complexity/week1_flows_in_networks/2_airline_crews/airlineCrews.js)
