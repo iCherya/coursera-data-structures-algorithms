@@ -156,3 +156,4 @@ This repository contains Javascript solutions for [Data Structures and Algorithm
 
 - [Infer Energy Values of Ingredients](/5-advanced-algorithms-and-complexity/week2_linear_programming/1_energy_values/energyValues.js)
 - [Optimal Diet Problem](/5-advanced-algorithms-and-complexity/week2_linear_programming/2_diet/diet.js)
+- [Online Advertisement Allocation](/5-advanced-algorithms-and-complexity/week2_linear_programming/3_ad_allocation/adAllocation.js)
