@@ -151,3 +151,7 @@ This repository contains Javascript solutions for [Data Structures and Algorithm
 - [Evacuating People](/5-advanced-algorithms-and-complexity/week1_flows_in_networks/1_evacuation/evacuation.js)
 - [Airline Crews](/5-advanced-algorithms-and-complexity/week1_flows_in_networks/2_airline_crews/airlineCrews.js)
 - [Stock Charts](/5-advanced-algorithms-and-complexity/week1_flows_in_networks/3_stock_charts/stockCharts.js)
+
+### Linear Programming
+
+- [Infer Energy Values of Ingredients](/5-advanced-algorithms-and-complexity/week2_linear_programming/1_energy_values/energyValues.js)
