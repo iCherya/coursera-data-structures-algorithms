@@ -156,3 +156,4 @@ This repository contains Javascript solutions for [Data Structures and Algorithm
 ### NP-completeness
 
 -   [Assign Frequencies to the Cells of a GSM Network](/5-advanced-algorithms-and-complexity/week3_np_completeness/1_gsm_network/GSMNetwork.js)
+-   [Cleaning the Apartment](/5-advanced-algorithms-and-complexity/week3_np_completeness/2_cleaning_apartment/cleaningApartment.js)
