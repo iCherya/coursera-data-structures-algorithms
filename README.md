@@ -161,4 +161,5 @@ This repository contains Javascript solutions for [Data Structures and Algorithm
 
 ### Coping with NP-completeness
 
+-   [Plan a Fun Party](/5-advanced-algorithms-and-complexity/week4_coping_with_np_completeness/2_plan_party/planParty.js)
 -   [School Bus](/5-advanced-algorithms-and-complexity/week4_coping_with_np_completeness/3_school_bus/schoolBus.js)
